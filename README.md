@@ -148,6 +148,4 @@ Universidad Nacional de Colombia
 
 Hecho con amor para estudiantes de la UNAL
 
-⭐ Si te fue útil, dale una estrella al repositorio
-
 </div>
