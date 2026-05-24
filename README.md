@@ -17,7 +17,7 @@
 
 <br />
 
-🌐 **[Ver aplicación en vivo →](https://grade-os-gamma.vercel.app)**
+🌐 **[Ver aplicación](https://grade-os-gamma.vercel.app)**
 
 <br />
 
