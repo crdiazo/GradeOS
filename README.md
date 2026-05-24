@@ -131,8 +131,14 @@ GradeOS/
 
 ## Autor
 
-**Cristian Andrés Díaz Ortega** — crdiazo@unal.edu.co
-[@crdiazo](https://github.com/crdiazo)
+**Cristian Andrés Díaz Ortega**
+
+<a href="mailto:crdiazo@unal.edu.co">
+  <img src="https://img.shields.io/badge/crdiazo@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/crdiazo">
+  <img src="https://img.shields.io/badge/@crdiazo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 Universidad Nacional de Colombia
 
